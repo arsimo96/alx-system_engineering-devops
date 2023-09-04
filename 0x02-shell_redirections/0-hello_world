@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "Hello, World"
-=======
-echo "hello.world" > README.md
-
->>>>>>> 018bbf1bfb476aeb9033ee4d1278cd92e91e2bab
+echo 'hello, world' 
